@@ -15,7 +15,7 @@
     <img src="Images/logo.png" alt="Logo" width="140">
   </a>
 
-  <h3 align="center">Indoor Positioning System in Commercial Building - IPSB</h3>
+  <h3 align="center">Beauty At Home</h3>
 
   <p align="center">
     A system enables booking beauty services at home with ease!
