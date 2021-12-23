@@ -57,7 +57,7 @@ In commercial buildings, finding ways to specific places inside the building may
 <br/>
 This project is for our university graduation thesis, IPSB supports following functions:
 <br/>
-Beauty At Home supports following functions:
+This project is for our class assignment projects, Beauty At Home supports following functions:
 * Admin can accept registration of beauty artist and view customer’s feedback to beauty artist.
 * Beauty artist can manage their services that they offer to their customer, and they can manage 
 their orders from the customer.
