@@ -30,19 +30,19 @@
 ## Project's Github links
 <ul>
   <li>
-    <a href="https://github.com/thehienvnag/ipsb_visitor_app">Visitor mobile app</a>
+    <a href="https://github.com/thehienvnag/beauty_at_home_customer">Customer mobile app</a>
   </li>
   
   <li>
-    <a href="https://github.com/thehienvnag/ipsb_partner_app">Partner mobile app</a>
+    <a href="https://github.com/donglong-ops/beauty-at-home-provider-mobile">Beauty Artist mobile app</a>
   </li>
   
   <li>
-    <a href="https://github.com/thehienvnag/ipsb_partner_web_app">Partner web app</a>
+    <a href="https://github.com/thehienvnag/beauty_at_home_web_admin">Admin web app</a>
   </li>
   
   <li>
-    <a href=https://github.com/krisode/ipsb">Back-end</a>
+    <a href="https://github.com/thehienvnag/beauty_at_home_backend">Back-end</a>
   </li>
 </ul>
 
