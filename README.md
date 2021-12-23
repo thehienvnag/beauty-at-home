@@ -53,8 +53,6 @@
 * Women nowsaday is more and more busy with their career. 
 * Small salon can only serve few guests at a time due to lacks of parking slot or small space.
 * Freelancer beauty artist can only serve patrons or work for salon.
-<br/>
-<br/>
 -> In order to connect freelancer beauty artist and customer, we have built a system which provides beauty services booking.
 <br/>
 <br/>
