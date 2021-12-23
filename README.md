@@ -18,7 +18,7 @@
   <h3 align="center">Indoor Positioning System in Commercial Building - IPSB</h3>
 
   <p align="center">
-    A system enables commercial building to deploy positioning services with ease!
+    A system enables booking beauty services at home with ease!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
