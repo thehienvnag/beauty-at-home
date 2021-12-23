@@ -57,13 +57,12 @@ Problems:
 -> In order to connect freelancer beauty artist and customer, we have built a system which provides beauty services booking.
 <br/>
 <br/>
+
 This project is for our class assignment projects, Beauty At Home supports following functions:
 * Admin can accept registration of beauty artist and view customer’s feedback to beauty artist.
 * Beauty artist can manage their services that they offer to their customer, and they can manage 
 their orders from the customer.
-* Beauty At Home allows visitors to book for at-home beauty services and give feedbacks to the 
-services they received.
-
+* Beauty At Home allows visitors to book for at-home beauty services and give feedbacks to the services they received. 
 
 
 ### Built With
