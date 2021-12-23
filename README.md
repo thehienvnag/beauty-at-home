@@ -68,13 +68,12 @@ destination with ease.
 ### Built With
 The followings is technologies and frameworks used in our project:
 
-* **Mobile app**: Flutter, GetX for state management, android sensors for positioning algorithm. <br/>
+* **Mobile app**: Flutter, Provider for state management<br/>
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-* **Web application**: React.js, Redux for state management, Ant Design for UI library.<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+* **Web application**: Vue.js, Vuex for state management, Ant Design for UI library.<br/>
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 * **Backend**: C# .NET 5, Entity Framework Core, SQL Server.<br/>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
