@@ -51,6 +51,7 @@
 
 In commercial buildings, finding ways to specific places inside the building may cause exhaustion to the visitors that they are unable to quickly locate and get navigated to their visit places. While GPS is not able to provide location determination inside buildings due to the signal block of concrete walls, it prevents the use of the nowadays map platform in the use case of indoor positioning. 
 <br/>
+<br/>
 -> In order to leverage the visitor experiences, it raises a need for a system which provides real-time positioning and navigation.
 <br/>
 <br/>
