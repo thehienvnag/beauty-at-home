@@ -52,12 +52,10 @@ Problems:
 * Going to Beaty salon usually takes a lot of time. 
 * Women nowsaday is more and more busy with their career. 
 * Small salon can only serve few guests at a time due to lacks of parking slot or small space.
-* Freelancer beauty artist can only serve patrons or work for salon.
-<br/>
+* Freelancer beauty artist can only serve patrons or work for salon.<br/>
 -> In order to connect freelancer beauty artist and customer, we have built a system which provides beauty services booking.
 <br/>
 <br/>
-
 This project is for our class assignment projects, Beauty At Home supports following functions:
 * Admin can accept registration of beauty artist and view customer’s feedback to beauty artist.
 * Beauty artist can manage their services that they offer to their customer, and they can manage 
