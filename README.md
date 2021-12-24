@@ -21,8 +21,9 @@
     A system enables booking beauty services at home with ease!
     <br />
     
-    <a href="https://github.com/thehienvnag/beauty-at-home/issues">Request Feature</a>
+    
   </p>
+  <a href="https://github.com/thehienvnag/beauty-at-home/issues">Request Feature</a>
 </div>
 
 <!-- PROJECT GITHUB LINKS -->
